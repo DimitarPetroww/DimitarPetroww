@@ -11,3 +11,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarPetroww&layout=compact" height="165px" >
    <img src="https://github-readme-stats.vercel.app/api?username=DimitarPetroww&count_private=true&show_icons=true" height="165px" >
 </p>
+<div align="center">
+<a href="https://softuni.bg/">
+   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
+</a>
+</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<DimitarPetroww>&theme=<THEME_NAME>" />
