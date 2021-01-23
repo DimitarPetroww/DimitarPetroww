@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Димитър Петров</h1>
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Mitko66692@abv.bg**
+- 📫 How to reach me: **Mitko66692@abv.bg**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +16,5 @@
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
 </a>
 </div>
-(https://user-images.githubusercontent.com/71393659/102015173-9de43480-3d62-11eb-8944-fd4fc245d9a2.png)
+
+[!(https://user-images.githubusercontent.com/71393659/102015173-9de43480-3d62-11eb-8944-fd4fc245d9a2.png)]
