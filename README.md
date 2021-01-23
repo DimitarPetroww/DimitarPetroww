@@ -16,4 +16,4 @@
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
 </a>
 </div>
-![](https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![](http://i.imgur.com/OUkLi.gif)
