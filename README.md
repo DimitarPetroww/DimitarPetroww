@@ -16,4 +16,4 @@
    <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
 </a>
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<DimitarPetroww>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<DimitarPetroww>&theme=<JS-softuni-homeworks>" />
