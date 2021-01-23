@@ -1,117 +1,14 @@
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoykoPetevBoev&layout=compact" height="165px" >
-   <img src="https://github-readme-stats.vercel.app/api?username=BoykoPetevBoev&count_private=true&show_icons=true" height="165px" >
-</p>
+<h1 align="center">Hi 👋, I'm Димитър Петров</h1>
+- 🌱 I’m currently learning **JavaScript**
 
-<hr></hr>
+- 📫 How to reach me **Mitko66692@abv.bg**
 
-<div align="center">
-<a href="https://softuni.bg/">
-   <img src="https://github.com/BoykoPetevBoev/BoykoPetevBoev/blob/main/Images/SoftUni-logo.png">
-</a>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<table width="100%">
-   <tr height="90px">
-      <td width="430px">
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a font-weight="500" href="https://github.com/BoykoPetevBoev/SoftUni-Programming-Basics-January-2019">  <strong>SoftUni-Programming-Basics-January-2019 </strong>
-         </a>
-         <div><sub>IF-ELSE / FOR LOOP / WHILE LOOP</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-      <td width="430px">
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Fundamentals-May-2019"><strong>SoftUni-JS-Fundamentals-May-2019</strong>
-         </a>
-         <div><sub>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-   </tr>
-   <tr  height="90px">
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Advanced-September-2019"> <strong>SoftUni-JS-Advanced-September-2019</strong>
-         </a>
-         <div><sub>DOM / CLASSES / UNIT TESTING</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2019">   <strong>SoftUni-JS-Applications-October-2019</strong>
-         </a>
-         <div><sub>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-   </tr>
-   <tr height="90px">
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-JS-Back-End-May-2020">  <strong>SoftUni-JS-Back-End-May-2020</strong>
-         </a>
-         <div><sub>EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-React-JS-June-2020"><strong>SoftUni-React-JS-June-2020</strong>
-         </a>
-         <div><sub>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-   </tr>
-   <tr  height="90px">
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-HTML-and-CSS-September-2020"> 
-         <strong>SoftUni-HTML-and-CSS-September-2020</strong>
-         </a>
-         <div><sub>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/red.png"  height="8px"> HTML   </sub>
-         </div>
-      </td>
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-Algorithms-Fundamentals-November-2020"> <strong>SoftUni-Algorithms-Fundamentals-November-2020</strong>
-         </a>
-         <div><sub>RECURSION / SEARCHING / SORTING / GRAPH THEORY</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-   </tr>
-   <tr   height="90px">
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-Fest-2021"> <strong>SoftUni-Fest-2021</strong></a>
-         <div><sub>16 - 17 JANUARY / 2021 / SOFIA</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-      <td>
-         <img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/repo.png" height="13px">
-         <a href="https://github.com/BoykoPetevBoev/SoftUni-Motion-Software-Bootcamp"> <strong>SoftUni-Motion-Software-Bootcamp</strong>
-         </a>
-         <div><sub>DOM / CLASSES / REST SERVICES / AJAX / THIS / ADVANCED FUNCTIONS</sub></div>
-         <div>
-            <sub><img src="https://raw.githubusercontent.com/BoykoPetevBoev/BoykoPetevBoev/main/Images/yellow.png"  height="8px"> JavaScript    </sub>
-         </div>
-      </td>
-   </tr>
-    
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitarpetroww&show_icons=true&locale=en&layout=compact" alt="dimitarpetroww" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitarpetroww&show_icons=true&locale=en" alt="dimitarpetroww" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitarpetroww&" alt="dimitarpetroww" /></p>
