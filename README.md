@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Димитър Петров</h1>
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me: **dimitar.petroww#1811**
+- 📫 How to reach me: **dimitar.petroww#1811@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
