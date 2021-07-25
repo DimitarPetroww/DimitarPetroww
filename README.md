@@ -2,9 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Димитър Петров</h1>
-- 🌱 I’m currently learning JavaScript
-
-- 📫 How to reach me: **dimitar.petroww1811@gmail.com**
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarPetroww&layout=compact" height="165px" >
